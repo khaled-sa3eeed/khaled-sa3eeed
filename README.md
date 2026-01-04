@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Mohamed%20Saeed%20Hussein%20Fadl&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20|%20Competitive%20Programmer%20|%20Problem%20Solver&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Khaled%20Saeed%20Ragab%20Abdullah&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20|%20Competitive%20Programmer%20|%20Problem%20Solver&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
 <p align="center">
@@ -17,12 +17,11 @@
 </div>
 
 * **Computer Science student** with a strong focus on backend development and algorithmic problem-solving.
-* Skilled in **PHP, Laravel, and MySQL**, with a dedicated interest in advancing my knowledge of **system architecture and design patterns**.
+* Skilled in **PHP, and MySQL**, with a dedicated interest in advancing my knowledge of **system architecture and design patterns**.
 * Active **Competitive Programmer** and participant in contests such as the **ECPC**.
 * Serves as an **Instructor at the [FCAI Benha ACPC Club](https://www.facebook.com/BFCAI.ACPC)**, mentoring students in algorithms and data structures.
-* A keen chess player, I apply strategic thinking and foresight to my software development process.
 * Actively seeking **internship opportunities** to apply and expand my backend development skills.
-* 📫 Reach me: **msaidg54@gmail.com** | **WhatsApp: +20 155 474 7371**  
+* 📫 Reach me: **msaidg54@gmail.com** | **WhatsApp: +20 127 090 1118**  
 
 ---
 
@@ -34,10 +33,10 @@
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-saeed-5b8420316/)
-  [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msaidg54@gmail.com)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201554747371)
-  [![Profile Views](https://komarev.com/ghpvc/?username=Mohamed-Saeed-Hussein&color=00D9FF&style=for-the-badge&label=Profile+Views)](https://github.com/Mohamed-Saeed-Hussein)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaled-sa3eeed/)
+  [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khaledsaeed2266@gmail.com)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201270901118)
+  [![Profile Views](https://komarev.com/ghpvc/?username=Mohamed-Saeed-Hussein&color=00D9FF&style=for-the-badge&label=Profile+Views)](https://github.com/khaled-sa3eeed)
 
 </div>
 
@@ -78,9 +77,9 @@
     </h2>
 </div>
 <p align="center">
-  <a href="https://leetcode.com/u/Oogway_/"><img src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/ccea8959-b23e-4619-893d-18f85870b45e" alt="leetcode" height="50" width="50"/></a>
-  <a href="https://codeforces.com/profile/MohamedSaeed"><img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-2-pack-logos-icons-3029920.png" alt="codeforces" height="50" width="50"/></a>
-  <a href="https://atcoder.jp/users/Oogway_"><img src="https://img.atcoder.jp/assets/atcoder.png" alt="atcoder" height="50" width="50"/></a>
+  <a href="https://leetcode.com/u/khaled_sa3eeed/"><img src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/ccea8959-b23e-4619-893d-18f85870b45e" alt="leetcode" height="50" width="50"/></a>
+  <a href="https://codeforces.com/profile/khaled_sa3eeed"><img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-2-pack-logos-icons-3029920.png" alt="codeforces" height="50" width="50"/></a>
+  <a href="https://atcoder.jp/users/khaled_sa3eeed"><img src="https://img.atcoder.jp/assets/atcoder.png" alt="atcoder" height="50" width="50"/></a>
 </p>
 
 ---
