@@ -21,7 +21,7 @@
 * Active **Competitive Programmer** and participant in contests such as the **ECPC**.
 * Serves as an **Instructor at the [FCAI Benha ACPC Club](https://www.facebook.com/BFCAI.ACPC)**, mentoring students in algorithms and data structures.
 * Actively seeking **internship opportunities** to apply and expand my backend development skills.
-* 📫 Reach me: **msaidg54@gmail.com** | **WhatsApp: +20 127 090 1118**  
+* 📫 Reach me: **khaledsaeed2266@gmail.com** | **WhatsApp: +20 127 090 1118**  
 
 ---
 
